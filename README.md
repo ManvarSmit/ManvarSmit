@@ -15,8 +15,7 @@
 
 # 💫 About Me:
 - 👯 I’m looking to collaborate on any Web Project
-<br>
-<br>
+
 - 💬 Ask me about AI, Web,ML.
 <br><br>
 - 📫 How to reach me: **smitmanvar84@gmail.com**
