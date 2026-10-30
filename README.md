@@ -16,6 +16,7 @@
 # 💫 About Me:
 - 👯 I’m looking to collaborate on any Web Project
 <br>
+<br>
 - 💬 Ask me about AI, Web,ML.
 <br><br>
 - 📫 How to reach me: **smitmanvar84@gmail.com**
@@ -70,22 +71,11 @@
 </td>
 <td width="50%" valign="top">
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" height="50"/>
 
-</td>
-<td width="50%" valign="top">
-
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="50"/>
 
 </td>
 </tr>
